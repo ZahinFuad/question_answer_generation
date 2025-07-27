@@ -91,3 +91,7 @@ Possible directions to extend and improve this work include:
 *   **Improved Evaluation Metrics:** Employ semantic-based evaluation metrics for answers (e.g., embedding similarity or answer containment) that reward correct information even if phrasing differs. This would better reflect the benefits of retrieval when exact wording is less important.
     
 *   **Multi-turn QA Extension:** Extend the pipeline to _multi-turn question answering_ scenarios, where context from previous Q/A pairs must be retrieved and considered. Context-enhanced prompting could be useful for maintaining coherence across turns.
+
+Acknowledgements
+-----------
+I, Khondaker Zahin Fuad, completed this project as part of an assignment for the Natural Language Processing (NLP) course in my Master’s program in Computer Science at American International University-Bangladesh (AIUB).
